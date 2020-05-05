@@ -36,13 +36,13 @@ b）、自研创新多个应用系统,行业首次创新实现并推广成功！
 
 涉及方面如下：
 
-a)RICH CLIENT开发：JAVA、C++
+a)、RICH CLIENT开发：JAVA、C++
 
-b)ITK BATCH开发：C++
+b)、ITK BATCH开发：C++
 
-c)SOA开发：JAVA、C++
+c)、SOA开发：JAVA、C++
 
-d)SHELL SCRIPT脚本定制等；
+d)、SHELL SCRIPT脚本定制等；
 
 14、解决工作中具体的难点问题，指导和负责难点问题的攻关，按照项目实施的方法论，有计划地完成项目的实施、监控和项目验收，确保项目的高质量完成；
 
