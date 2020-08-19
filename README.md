@@ -1,5 +1,4 @@
 # Original by Dear-Future 
-# Dear-Future All Rights Reserved
 
 
 安全与数字化转型实战专家
@@ -168,3 +167,4 @@ c)、基于Kubernetes（K8S）的分布式架构
 
 --------------------------------------------------------------------------------------------------------
 
+# Dear-Future All Rights Reserved
